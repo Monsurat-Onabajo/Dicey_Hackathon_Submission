@@ -1,4 +1,4 @@
-# Dicey_Hackathon_Submission
+# Hack The Feed: Insights From Social Media Data
 
 This is a submission for the dicey hack the fields data analysis hackathon. 
 
